@@ -1,2 +1,2 @@
-app.pyc compliments.pyc
+*.pyc
 __pycache__/
